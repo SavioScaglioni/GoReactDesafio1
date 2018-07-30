@@ -1,0 +1,30 @@
+body {
+  background: #e9ebee;
+}
+header {
+  background: #4267b2;
+  border-bottom: 1px;
+  border-bottom-color: #29487d;
+  height: 40px;
+  text-align: center;
+}
+span {
+  color: #fff;
+}
+.Avatar {
+  height: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.post-content {
+  width: 700px;
+  border-bottom: 1px;
+  background: #fff;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 30px;
+}
+.post-title {
+  height: 16px;
+  color: #666;
+}
